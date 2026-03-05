@@ -38,5 +38,27 @@
     "meaning": "hello",
     "submittedBy": "anonymous",
     "submittedAt": "2026-03-03T12:22:52.619Z"
+  },
+  {
+    "term": "你好",
+    "explanations": [
+      {
+        "meaning": "你好",
+        "submittedBy": "nkx",
+        "submittedAt": "2026-03-05T09:36:22.518Z",
+        "ratings": {
+          "count": 0,
+          "average": 0,
+          "distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "details": []
+        }
+      }
+    ]
   }
 ]
