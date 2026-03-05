@@ -8,19 +8,19 @@
         "submittedAt": "2026-02-28T13:57:59.551Z",
         "ratings": {
           "count": 1,
-          "average": 5,
+          "average": 4,
           "distribution": [
             0,
             0,
             0,
-            0,
-            1
+            1,
+            0
           ],
           "details": [
             {
               "userId": "nkx",
-              "rating": 5,
-              "ratedAt": "2026-03-05T09:55:59.015Z"
+              "rating": 4,
+              "ratedAt": "2026-03-05T10:05:11.161Z"
             }
           ]
         }
