@@ -1,9 +1,31 @@
 [
   {
     "term": "翻车",
-    "meaning": "事情的结果是预期的相反",
-    "submittedBy": "anonymous",
-    "submittedAt": "2026-02-28T13:57:59.551Z"
+    "explanations": [
+      {
+        "meaning": "事情的结果是预期的相反",
+        "submittedBy": "anonymous",
+        "submittedAt": "2026-02-28T13:57:59.551Z",
+        "ratings": {
+          "count": 1,
+          "average": 3,
+          "distribution": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "details": [
+            {
+              "userId": "nkx",
+              "rating": 3,
+              "ratedAt": "2026-03-05T09:55:43.497Z"
+            }
+          ]
+        }
+      }
+    ]
   },
   {
     "term": "绝绝子",
