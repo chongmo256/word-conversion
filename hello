@@ -143,5 +143,27 @@
         }
       }
     ]
+  },
+  {
+    "term": "加纳",
+    "explanations": [
+      {
+        "meaning": "再见",
+        "submittedBy": "tyh",
+        "submittedAt": "2026-03-10T01:06:50.055Z",
+        "ratings": {
+          "count": 0,
+          "average": 0,
+          "distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "details": []
+        }
+      }
+    ]
   }
 ]
