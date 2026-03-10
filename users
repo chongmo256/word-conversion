@@ -15,8 +15,10 @@
     {
       "userId": "tyh",
       "createdAt": "2026-03-10T00:26:32.855Z",
-      "lastActive": "2026-03-10T00:26:32.858Z",
-      "ratings": {},
+      "lastActive": "2026-03-10T00:27:05.111Z",
+      "ratings": {
+        "翻车_0": 3
+      },
       "contributions": 0
     }
   ]
