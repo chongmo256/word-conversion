@@ -152,16 +152,22 @@
         "submittedBy": "tyh",
         "submittedAt": "2026-03-10T01:06:50.055Z",
         "ratings": {
-          "count": 0,
-          "average": 0,
+          "count": 1,
+          "average": 3,
           "distribution": [
             0,
             0,
-            0,
+            1,
             0,
             0
           ],
-          "details": []
+          "details": [
+            {
+              "userId": "tyh",
+              "rating": 3,
+              "ratedAt": "2026-03-10T01:08:32.682Z"
+            }
+          ]
         }
       }
     ]
