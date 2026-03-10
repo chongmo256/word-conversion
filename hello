@@ -121,5 +121,27 @@
         }
       }
     ]
+  },
+  {
+    "term": "牛大了",
+    "explanations": [
+      {
+        "meaning": "带绿帽",
+        "submittedBy": "tyh",
+        "submittedAt": "2026-03-10T00:30:09.572Z",
+        "ratings": {
+          "count": 0,
+          "average": 0,
+          "distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "details": []
+        }
+      }
+    ]
   }
 ]
