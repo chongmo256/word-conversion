@@ -41,12 +41,12 @@
         "submittedAt": "2026-02-28T13:58:36.303Z",
         "ratings": {
           "count": 2,
-          "average": 3.5,
+          "average": 3,
           "distribution": [
             0,
             0,
-            1,
-            1,
+            2,
+            0,
             0
           ],
           "details": [
@@ -57,8 +57,8 @@
             },
             {
               "userId": "tyh",
-              "rating": 4,
-              "ratedAt": "2026-03-10T00:27:30.036Z"
+              "rating": 3,
+              "ratedAt": "2026-03-10T00:27:57.525Z"
             }
           ]
         }
