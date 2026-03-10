@@ -7,12 +7,12 @@
         "submittedBy": "anonymous",
         "submittedAt": "2026-02-28T13:57:59.551Z",
         "ratings": {
-          "count": 1,
-          "average": 4,
+          "count": 2,
+          "average": 3.5,
           "distribution": [
             0,
             0,
-            0,
+            1,
             1,
             0
           ],
@@ -21,6 +21,11 @@
               "userId": "nkx",
               "rating": 4,
               "ratedAt": "2026-03-05T10:05:11.161Z"
+            },
+            {
+              "userId": "tyh",
+              "rating": 3,
+              "ratedAt": "2026-03-10T00:27:07.127Z"
             }
           ]
         }
