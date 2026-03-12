@@ -171,5 +171,27 @@
         }
       }
     ]
+  },
+  {
+    "term": "半场开香槟",
+    "explanations": [
+      {
+        "meaning": "因过度放松或是轻敌而导致的优势逆转",
+        "submittedBy": "tyh",
+        "submittedAt": "2026-03-12T14:59:24.578Z",
+        "ratings": {
+          "count": 0,
+          "average": 0,
+          "distribution": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "details": []
+        }
+      }
+    ]
   }
 ]
